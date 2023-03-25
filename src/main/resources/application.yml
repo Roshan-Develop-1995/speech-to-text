@@ -1,0 +1,8 @@
+server:
+  port: 8011
+
+spring:
+  cloud:
+    gcp:
+      credentials:
+        location: file:/Users/roshanpathak/IdeaProjects/email-feedback-314916-e4cdeb9956f1.json
